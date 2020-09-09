@@ -1,0 +1,1 @@
+creating file for stash command and testing the same

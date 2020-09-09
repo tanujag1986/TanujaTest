@@ -1,0 +1,2 @@
+changes for reset command
+learning stash command uses
